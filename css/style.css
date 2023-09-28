@@ -1,0 +1,105 @@
+.sus {
+    max-width:1179px;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-width: 2px;
+    border-style: solid;
+    border-color: royalblue;
+    margin-left: auto;
+    margin-right: auto;
+}
+.memes{
+    background-color: aqua;
+    padding-top: 35px;
+    padding-bottom: 38px;
+}
+.alte {
+display: flex;
+}
+.and {
+    max-width:128px;
+    width: 100%;
+}
+
+.memex {
+    display: none;
+    color: blue;
+}
+
+.ilen {
+    max-width: 1180px;
+    width: 100%;
+    background-color: brown;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lmt {
+    height: 48px;
+    width: 100%;
+    background-color: brown;
+    color: magenta;
+}
+
+.aleph {
+    display: flex;
+    justify-content: space-between;
+}
+
+.alras {
+    display: flex;
+    flex-direction: column;
+}
+
+.s {
+    max-width: 411px;
+    width: 100%;
+}
+
+.mlr {
+    height: 75px;
+    background-color: aliceblue;
+}
+
+.right {
+    max-width: 575px;
+    width: 100%;
+    height: 304px;
+}
+
+.bsp {
+    width: 100%;
+    height: 100%;
+}
+
+.ml {
+    height: 30px;
+    background-color: aliceblue;
+}
+
+.left {
+    max-width: 575px;
+    width: 100%;
+}
+
+.illien {
+text-align: center;
+}
+
+@media (max-width:730px) {
+    .alpha {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media (max-width:480px) {
+.aleph {
+    display: none;
+}
+.memex {
+    display: block;
+}
+}
